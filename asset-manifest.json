@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Restro-guide/static/css/main.208f524d.css",
+    "main.js": "/Restro-guide/static/js/main.44da82fd.js",
+    "static/media/restro1.jpg": "/Restro-guide/static/media/restro1.1c14025b1bd31a4a07e3.jpg",
+    "static/media/restro4.jpg": "/Restro-guide/static/media/restro4.1e17f35eff801d207563.jpg",
+    "static/media/home2.jpg": "/Restro-guide/static/media/home2.11f5469e1fa3c0b8669b.jpg",
+    "static/media/main4.jpg": "/Restro-guide/static/media/main4.1fce371c049ddf5f7938.jpg",
+    "static/media/restro7.jpg": "/Restro-guide/static/media/restro7.4855144ed723b6700a82.jpg",
+    "static/media/main5.jpg": "/Restro-guide/static/media/main5.3d6f990ad5aa38096c98.jpg",
+    "static/media/restro3.jpg": "/Restro-guide/static/media/restro3.ba6c894f8fd8a0c753a9.jpg",
+    "static/media/restro2.jpg": "/Restro-guide/static/media/restro2.c09d323e4055893a45a6.jpg",
+    "static/media/restro8.jpg": "/Restro-guide/static/media/restro8.73323d63ad4190555e12.jpg",
+    "static/media/home.jpg": "/Restro-guide/static/media/home.756bc033b4c6666b4b50.jpg",
+    "static/media/main3.jpg": "/Restro-guide/static/media/main3.41a3b044fd47985f2c86.jpg",
+    "static/media/restro5.jpg": "/Restro-guide/static/media/restro5.8ecbcf5557e415e18008.jpg",
+    "static/media/retro6.jpg": "/Restro-guide/static/media/retro6.9cb4d2a833e51c8b651a.jpg",
+    "index.html": "/Restro-guide/index.html",
+    "main.208f524d.css.map": "/Restro-guide/static/css/main.208f524d.css.map",
+    "main.44da82fd.js.map": "/Restro-guide/static/js/main.44da82fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208f524d.css",
+    "static/js/main.44da82fd.js"
+  ]
+}
