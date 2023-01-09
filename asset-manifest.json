@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Restro-guide/static/css/main.6e9eae7a.css",
+    "main.css": "/Restro-guide/static/css/main.5f7e66b5.css",
     "main.js": "/Restro-guide/static/js/main.0cf5846e.js",
     "static/media/restro1.jpg": "/Restro-guide/static/media/restro1.1c14025b1bd31a4a07e3.jpg",
     "static/media/restro4.jpg": "/Restro-guide/static/media/restro4.1e17f35eff801d207563.jpg",
@@ -16,11 +16,11 @@
     "static/media/restro5.jpg": "/Restro-guide/static/media/restro5.8ecbcf5557e415e18008.jpg",
     "static/media/retro6.jpg": "/Restro-guide/static/media/retro6.9cb4d2a833e51c8b651a.jpg",
     "index.html": "/Restro-guide/index.html",
-    "main.6e9eae7a.css.map": "/Restro-guide/static/css/main.6e9eae7a.css.map",
+    "main.5f7e66b5.css.map": "/Restro-guide/static/css/main.5f7e66b5.css.map",
     "main.0cf5846e.js.map": "/Restro-guide/static/js/main.0cf5846e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e9eae7a.css",
+    "static/css/main.5f7e66b5.css",
     "static/js/main.0cf5846e.js"
   ]
 }
