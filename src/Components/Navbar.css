@@ -1,0 +1,43 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(246, 249, 251, 0.901);
+  color: rgb(24, 3, 3);
+  align-items: center;
+  padding: 0 25px;
+  box-shadow: 5 5px 10px 5 rgba(0, 0, 0, 0.25);
+  width: 95%;
+  height: 80px;
+  border-radius: 13px;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  z-index: 9999;
+   
+}
+@media screen and (max-width: 500px){
+  .navbar{
+    display: flex;
+  justify-content: space-between;
+  background-color: rgba(242, 243, 244, 0.901);
+  color: rgb(37, 29, 29);
+  align-items: center;
+  padding: 0 25px;
+  box-shadow: 5 5px 10px 5 rgba(0, 0, 0, 0.25);
+  width: 95%;
+  height: 50px;
+  border-radius: 13px;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  z-index: 9999;
+  }
+}
+
+
+
+
+
+
